@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "aakarshanbhusal.aternos.me:52935",
+    "ip": "aakarshanbhusal.aternos.me",
     "port": 52935,
     "version": "",
     "try-creative": false
